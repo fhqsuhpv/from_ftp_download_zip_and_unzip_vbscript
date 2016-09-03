@@ -1,5 +1,5 @@
 strFileURL = "http://<yourpath>/[youzipname].zip"
-strWinRARFileURL = "http://http://<yourpath>/[youzipname].zip"
+strWinRARFileURL = "http://<yourpath>/[youzipname].zip"
 
 Function DownloadTo(url, dest)
 	' Fetch the file
